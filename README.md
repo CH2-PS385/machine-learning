@@ -2,6 +2,7 @@
 
 ## Description
 NutriMate: Calories Prediction and Food Planner
+
 The idea of our application is for giving the recommendations food based on the calories each day of the user and his/her allergies.
 
 ## Recomendation System
